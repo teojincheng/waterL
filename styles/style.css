@@ -1,4 +1,5 @@
 body{
 background-image: url("../images/waterBody.jpg");
 background-color: #004080;
+background-repeat: no-repeat;
 }
